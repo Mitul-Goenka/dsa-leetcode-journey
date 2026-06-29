@@ -10,10 +10,6 @@ class Solution {
                 return false;
             }
         }
-        for(int i=0;i<ransomNote.length();i++){
-           
-        }
         return true;
-
     }
 }
