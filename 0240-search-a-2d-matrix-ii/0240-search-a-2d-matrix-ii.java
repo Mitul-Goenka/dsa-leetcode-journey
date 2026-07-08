@@ -5,17 +5,17 @@ class Solution {
         }
         int n = matrix.length;
         int m = matrix[0].length;
-        int row = n-1;
-        int col = 0;
-        while(row>=0 && col<m){
+        int row = 0;
+        int col = m-1;
+        while(row<n && col>=0){
             if(matrix[row][col]==target){
                 return true;
             }
             else if(matrix[row][col]>target){
-                row--;
+                col--;
             }
             else{
-                col++;
+                row++;
             }
         }
         return false;
