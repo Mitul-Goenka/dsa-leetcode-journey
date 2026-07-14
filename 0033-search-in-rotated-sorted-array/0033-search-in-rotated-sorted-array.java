@@ -11,31 +11,30 @@ class Solution {
                 low = mid+1;
             }
         }
-        int right = nums.length-1;
-        while(low<=right){
-            int mid = low+(right-low)/2;
+        int left = 0;
+        int right = 0;
+        if(high == 0){
+         left = 0;
+         right = nums.length-1;
+        }
+        else if(nums[0]<=target){
+            right = high-1;
+        }
+        else{
+            left = high;
+            right = nums.length-1;
+        }
+        while(left<=right){
+            int mid = left+(right-left)/2;
+
             if(nums[mid]==target){
                 return mid;
             }
             else if(nums[mid]<target){
-                low = mid+1;
+                left = mid+1;
             }
             else{
                 right = mid-1;
-            }
-        }
-        int low_1 = 0;
-        int high_1 = high-1;
-        while(low_1<=high_1){
-            int mid = low_1 + (high_1-low_1)/2;
-            if(nums[mid]==target){
-                return mid;
-            }
-            else if(nums[mid]<target){
-                low_1 = mid+1;
-            }
-            else{
-                high_1 = mid-1;
             }
         }
         return -1;
