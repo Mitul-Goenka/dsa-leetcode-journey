@@ -5,7 +5,7 @@ class Solution {
         int leftMax = 0;
         int rightMax = 0;
         int count = 0;
-        while(left<=right){
+        while(left<right){
             leftMax = Math.max(height[left] , leftMax);
             rightMax = Math.max(height[right] , rightMax);
             if(height[left] < height[right]){
