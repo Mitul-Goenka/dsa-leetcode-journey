@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0061-rotate-list) |
 | [0633-sum-of-square-numbers](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0633-sum-of-square-numbers) |
 | [0881-boats-to-save-people](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0881-boats-to-save-people) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0240-search-a-2d-matrix-ii) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0042-trapping-rain-water) |
 | [2390-removing-stars-from-a-string](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -125,4 +128,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0014-longest-common-prefix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
