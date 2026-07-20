@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0881-boats-to-save-people) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/1095-find-in-mountain-array) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1833-maximum-ice-cream-bars](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/1833-maximum-ice-cream-bars) |
 ## Binary Search
@@ -136,4 +137,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0042-trapping-rain-water) |
+## Sliding Window
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Prefix Sum
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
