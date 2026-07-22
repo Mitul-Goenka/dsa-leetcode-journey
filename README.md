@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0409-longest-palindrome) |
 | [0881-boats-to-save-people](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0881-boats-to-save-people) |
 | [1833-maximum-ice-cream-bars](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/1833-maximum-ice-cream-bars) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0274-h-index) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
