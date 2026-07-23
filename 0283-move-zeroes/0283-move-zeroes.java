@@ -4,7 +4,6 @@ class Solution {
             return;
         }
         int pos = 0;
-        int j = 0;
         int zero = 0;
         for(int i=0;i<nums.length;i++){
             if(nums[i]!=0){
