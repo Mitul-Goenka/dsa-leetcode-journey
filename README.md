@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0014-longest-common-prefix) |
+| [0058-length-of-last-word](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0058-length-of-last-word) |
 | [0409-longest-palindrome](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0409-longest-palindrome) |
 | [2390-removing-stars-from-a-string](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/2390-removing-stars-from-a-string) |
 ## Greedy
