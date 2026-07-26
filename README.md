@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0283-move-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0875-koko-eating-bananas) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0018-4sum) |
 | [0274-h-index](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0274-h-index) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0881-boats-to-save-people) |
 | [1833-maximum-ice-cream-bars](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/1833-maximum-ice-cream-bars) |
 | [3536-maximum-product-of-two-digits](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/3536-maximum-product-of-two-digits) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0633-sum-of-square-numbers) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [3536-maximum-product-of-two-digits](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/3536-maximum-product-of-two-digits) |
