@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0275-h-index-ii) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0018-4sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0274-h-index) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0628-maximum-product-of-three-numbers) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0004-median-of-two-sorted-arrays) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0240-search-a-2d-matrix-ii) |
 ## Matrix
 |  |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Math
@@ -175,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
