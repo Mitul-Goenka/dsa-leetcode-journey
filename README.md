@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0041-first-missing-positive) |
+| [0347-top-k-frequent-elements](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0438-find-all-anagrams-in-a-string) |
 ## String
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0704-binary-search) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0018-4sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0881-boats-to-save-people) |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0347-top-k-frequent-elements) |
 | [1833-maximum-ice-cream-bars](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/1833-maximum-ice-cream-bars) |
 ## Divide and Conquer
 |  |
@@ -126,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0004-median-of-two-sorted-arrays) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0973-k-closest-points-to-origin) |
 ## Matrix
 |  |
@@ -137,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0973-k-closest-points-to-origin](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -188,9 +194,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0973-k-closest-points-to-origin) |
 ## Geometry
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0973-k-closest-points-to-origin) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
