@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0767-reorganize-string) |
 ## String
 |  |
 | ------- |
@@ -17,12 +18,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0767-reorganize-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/2390-removing-stars-from-a-string) |
 ## Greedy
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0409-longest-palindrome) |
+| [0767-reorganize-string](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0881-boats-to-save-people) |
 | [1833-maximum-ice-cream-bars](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/1833-maximum-ice-cream-bars) |
 ## Linked List
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0881-boats-to-save-people) |
 | [0973-k-closest-points-to-origin](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -132,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0767-reorganize-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/1833-maximum-ice-cream-bars) |
 ## Divide and Conquer
 |  |
@@ -155,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Math
