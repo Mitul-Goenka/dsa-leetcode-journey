@@ -8,7 +8,7 @@ class Solution {
         PriorityQueue<Integer> pq2 = new PriorityQueue<>(Collections.reverseOrder());
         int idx = 0;
         while(k>0){
-        while(idx < profits.length){
+        while(idx < arr.length){
             if(arr[idx].cap > w){
                 break;
             }
