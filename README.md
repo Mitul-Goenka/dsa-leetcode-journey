@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0767-reorganize-string) |
+| [3731-find-missing-elements](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1833-maximum-ice-cream-bars](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/1833-maximum-ice-cream-bars) |
+| [3731-find-missing-elements](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/1833-maximum-ice-cream-bars) |
 | [3536-maximum-product-of-two-digits](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/3731-find-missing-elements) |
 ## Counting Sort
 |  |
 | ------- |
