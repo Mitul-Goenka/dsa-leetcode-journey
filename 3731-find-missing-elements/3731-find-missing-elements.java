@@ -14,7 +14,7 @@ class Solution {
         }
         int k=0;
         int l=0;
-        while(k<arr.length && l<nums.length){
+        while(l<nums.length && k<arr.length){
             if(arr[k]==nums[l]){
                 k++;
                 l++;
