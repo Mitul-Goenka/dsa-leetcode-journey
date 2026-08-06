@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/1046-last-stone-weight) |
 | [1095-find-in-mountain-array](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/1095-find-in-mountain-array) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/1095-find-in-mountain-array) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Sorting
 |  |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0881-boats-to-save-people) |
 | [0973-k-closest-points-to-origin](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0973-k-closest-points-to-origin) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/1833-maximum-ice-cream-bars) |
 | [3536-maximum-product-of-two-digits](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/3536-maximum-product-of-two-digits) |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -180,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/1046-last-stone-weight) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Math
 |  |
