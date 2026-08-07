@@ -14,7 +14,6 @@ class Solution {
             pq.add(new Pair(courses[i][1], courses[i][0]));
         }
         int td = 0;
-        int count = 0;
         while (!pq.isEmpty()) {
             Pair P = pq.poll();
             pq2.add(P.totalDuration);
@@ -22,11 +21,9 @@ class Solution {
             int ld = P.lastDay;
             if (td > ld) {
                 td = td - pq2.poll();
-            } else {
-                count++;
-            }
+            } 
         }
-        return count;
+        return pq2.size();
     }
 }
 class Pair {
