@@ -28,8 +28,8 @@ class Solution {
             ListNode node = pq.poll();
             curr.next = node;
             curr = curr.next;
-            curr.next = pq.peek();
         }
+        curr.next = null;
         return head.next;
     }
 }
