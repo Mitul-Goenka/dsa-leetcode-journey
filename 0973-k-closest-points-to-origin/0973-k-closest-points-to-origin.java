@@ -1,30 +1,33 @@
 class Solution {
     public int[][] kClosest(int[][] points, int k) {
-        // Max Heap (store farthest first)
-        PriorityQueue<int[]> pq = new PriorityQueue<>(
-            (a, b) -> distance(b) - distance(a)
+        PriorityQueue<Pair> pq = new PriorityQueue<>
+        (
+            (a,b) ->  b.distance - a.distance
         );
-
-        for (int[] point : points) {
-            pq.offer(point);
-
-            // Keep only k closest points
-            if (pq.size() > k) {
-                pq.poll(); // remove farthest
+        for(int i=0;i<points.length;i++){
+            int a = points[i][0];
+            int b = points[i][1];
+            int c = a*a + b*b;
+            pq.add(new Pair(points[i] , c));
+            if(pq.size()>k){
+                pq.poll();
             }
         }
-
-        int[][] result = new int[k][2];
+        int[][] ans = new int[k][2];
         int i = 0;
-
-        while (!pq.isEmpty()) {
-            result[i++] = pq.poll();
+        while(!pq.isEmpty()){
+            Pair P = pq.poll();
+            ans[i] = P.arr;
+            i++;
         }
-
-        return result;
+        return ans;
     }
-
-    private int distance(int[] p) {
-        return p[0]*p[0] + p[1]*p[1];
+}
+class Pair{
+    int[] arr;
+    int distance;
+    Pair(int[] arr , int distance){
+        this.arr = arr;
+        this.distance = distance;
     }
 }
