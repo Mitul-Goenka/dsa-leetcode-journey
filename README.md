@@ -260,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0023-merge-k-sorted-lists) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
