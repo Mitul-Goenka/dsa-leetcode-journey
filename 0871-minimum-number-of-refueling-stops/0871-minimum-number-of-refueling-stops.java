@@ -8,7 +8,8 @@ class Solution {
         int i=0;
         while(startFuel<target){
            while(i<stations.length && startFuel>=stations[i][0]){
-            pq.add(stations[i++][1]);
+            pq.add(stations[i][1]);
+            i++;
            }
            if(pq.isEmpty()){
             return -1;
