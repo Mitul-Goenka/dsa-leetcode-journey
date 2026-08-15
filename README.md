@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0025-reverse-nodes-in-k-group) |
+| [0509-fibonacci-number](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0189-rotate-array) |
+| [0509-fibonacci-number](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0633-sum-of-square-numbers) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0668-kth-smallest-number-in-multiplication-table) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0509-fibonacci-number](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0509-fibonacci-number) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0871-minimum-number-of-refueling-stops) |
 ## Monotonic Stack
 |  |
@@ -268,4 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0973-k-closest-points-to-origin) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
