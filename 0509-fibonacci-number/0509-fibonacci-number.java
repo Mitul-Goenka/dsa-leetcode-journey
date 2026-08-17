@@ -1,14 +1,13 @@
 class Solution {
     public int fib(int n) {
-        int[] arr = new int[n+1];
-        for(int i=0;i<n+1;i++){
-            arr[i] = i;
-            if(i>1){
-                arr[i] = arr[i-1]+arr[i-2];
-            }
+        if(n==0){
+            return 0;
         }
-        return arr[n];
-
+        if(n==1){
+            return 1;
+        }
+        int ans = fib(n-1)+fib(n-2);
+        return ans;
         
     }
 }
