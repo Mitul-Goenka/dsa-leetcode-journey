@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0058-length-of-last-word) |
 | [0409-longest-palindrome](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -278,4 +280,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0509-fibonacci-number](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/1137-n-th-tribonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
