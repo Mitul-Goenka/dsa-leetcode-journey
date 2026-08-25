@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0058-length-of-last-word) |
+| [0392-is-subsequence](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0692-top-k-frequent-words) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0392-is-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0881-boats-to-save-people) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0509-fibonacci-number) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1137-n-th-tribonacci-number](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/1137-n-th-tribonacci-number) |
