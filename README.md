@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0630-course-schedule-iii](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0630-course-schedule-iii) |
+| [0643-maximum-average-subarray-i](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0704-binary-search) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0643-maximum-average-subarray-i](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0658-find-k-closest-elements) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
