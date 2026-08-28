@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0628-maximum-product-of-three-numbers) |
