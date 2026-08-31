@@ -7,10 +7,8 @@ class Solution {
     }
     void fun(int[] candidates, int n, int target, List<Integer> list, List<List<Integer>> res, int sum, int idx){
         if(idx==n){
-            if(sum==target){
+            if(sum==target)
                 res.add(new ArrayList<>(list));
-                return;
-            }
             return;
         }
         fun(candidates, n, target, list, res, sum, idx+1);
