@@ -27,8 +27,7 @@ class Solution {
             while(lvlSize>0){
                 TreeNode node = q.peek();
                 q.remove();
-                if(node!=null)
-                list.add(node.val);
+                list.add(node.val); 
                 if(node.left != null){
                     q.add(node.left);
                 }
