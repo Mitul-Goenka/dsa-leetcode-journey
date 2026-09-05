@@ -1,7 +1,7 @@
 class Solution {
-    void fun(int[] nums , HashMap<List<Integer> , Integer> map ,List<Integer> list, int idx , int n , boolean[] used){
+    void fun(int[] nums , HashSet<List<Integer>> set,List<Integer> list, int idx , int n , boolean[] used){
         if(idx==n){
-            map.put(new ArrayList<>(list) , map.getOrDefault(list , 0)+1);
+            set.add(new ArrayList<>(list));
             return;
         }
         for(int i=0;i<nums.length;i++){
@@ -11,7 +11,7 @@ class Solution {
             used[i] = true;
             int a = nums[i];
             list.add(a);
-            fun(nums, map, list, idx+1, n, used);
+            fun(nums, set, list, idx+1, n, used);
             list.remove(list.size()-1);
             used[i] = false;
         }
@@ -21,9 +21,9 @@ class Solution {
         List<List<Integer>> res = new ArrayList<>();
         List<Integer> list = new ArrayList<>();
         boolean[] used = new boolean[nums.length];
-        HashMap<List<Integer> , Integer> map = new HashMap<>();
-        fun(nums, map, list, 0, nums.length, used);
-        for(List<Integer> key : map.keySet()){
+        HashSet<List<Integer>> set = new HashSet<>();
+        fun(nums, set, list, 0, nums.length, used);
+        for(List<Integer> key : set){
             res.add(new ArrayList<>(key));
         }
         return res;
