@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0767-reorganize-string) |
+| [0940-distinct-subsequences-ii](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0940-distinct-subsequences-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2390-removing-stars-from-a-string](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/2390-removing-stars-from-a-string) |
 ## Greedy
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0509-fibonacci-number) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0871-minimum-number-of-refueling-stops) |
+| [0940-distinct-subsequences-ii](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0940-distinct-subsequences-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/1137-n-th-tribonacci-number) |
 ## Monotonic Stack
 |  |
