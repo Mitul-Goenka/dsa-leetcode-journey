@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3536-maximum-product-of-two-digits](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/3536-maximum-product-of-two-digits) |
 | [3870-count-commas-in-range](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/3871-count-commas-in-range-ii) |
 ## Interactive
 |  |
 | ------- |
