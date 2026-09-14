@@ -35,8 +35,8 @@ class Solution {
         //     return false;
         // }
         
-         if(left!=null && right!=null && left.val==right.val){
-            return isMirror(left.left , right.right) && isMirror(left.right , right.left);
+         if(left.val==right.val && isMirror(left.left , right.right) && isMirror(left.right , right.left)){
+            return true;
         }           
     
         return false;
