@@ -17,7 +17,7 @@ class Solution {
     public int kthSmallest(TreeNode root, int k) {
         List<TreeNode> list2 = fun(root);
         
-            TreeNode node = list2.get(k-1);
+        TreeNode node = list2.get(k-1);
         
         return node.val;
     }
