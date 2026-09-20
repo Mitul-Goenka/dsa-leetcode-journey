@@ -25,7 +25,7 @@ class Solution {
         }
         if(root.val == val){
             ans = root;
-            return root;
+            return ans;
         }
         if(root.val>val){
             return fun(root.left , val);
