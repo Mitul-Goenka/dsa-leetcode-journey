@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0621-task-scheduler](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0621-task-scheduler) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0767-reorganize-string) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0392-is-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0633-sum-of-square-numbers) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0881-boats-to-save-people) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0700-search-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0226-invert-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -359,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -369,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -384,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0700-search-in-a-binary-search-tree) |
 ## DP on Trees
 |  |
