@@ -323,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0047-permutations-ii) |
+| [0113-path-sum-ii](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0113-path-sum-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0113-path-sum-ii](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0113-path-sum-ii](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0101-symmetric-tree) |
+| [0113-path-sum-ii](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0230-kth-smallest-element-in-a-bst) |
