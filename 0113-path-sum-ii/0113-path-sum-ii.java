@@ -31,9 +31,9 @@ class Solution {
         if(root.left==null && root.right==null){
             if(sum==targetSum){
                 list.add(new ArrayList<>(list1));
-                list1.remove(list1.size()-1);
-                return;
             }
+            list1.remove(list1.size()-1);
+                return;
         }
         
             fun(root.left , sum , targetSum , list1);
