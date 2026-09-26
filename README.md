@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0692-top-k-frequent-words) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0496-next-greater-element-i](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0628-maximum-product-of-three-numbers) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0496-next-greater-element-i) |
 | [2390-removing-stars-from-a-string](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0496-next-greater-element-i) |
 ## Sliding Window
 |  |
 | ------- |
