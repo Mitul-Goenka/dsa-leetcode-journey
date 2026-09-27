@@ -35,7 +35,5 @@ class Solution {
             
         }
         fun(root.right);
-
-
     }
 }
