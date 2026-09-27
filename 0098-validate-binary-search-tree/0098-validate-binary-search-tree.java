@@ -15,30 +15,27 @@
  */
 class Solution {
     public boolean isValidBST(TreeNode root) {
-        List<TreeNode> list1 = fun(root);
-        int nums[] = new int[list1.size()];
-        int i=0;
-        for(TreeNode node : list1){
-            nums[i] = node.val;
-            i++;
-        } 
-        for(int j=1;j<nums.length;j++){
-            if(nums[j]<=nums[j-1]){
-                return false;
-            }
-        }
-        return true;
-        
+        fun(root);
+        return ans;
     }
-    List<TreeNode> fun(TreeNode root){
-        List<TreeNode> list = new ArrayList<>();
+    TreeNode prev = null;
+    boolean ans = true;
+    void fun(TreeNode root){
         if(root==null){
-            return new ArrayList<>();
+            return;
         }
-        list.addAll(fun(root.left));
-        list.add(root);
-        list.addAll(fun(root.right));
+        fun(root.left);
+        if(prev==null){
+            prev = root;
+        }
+        else{
+            if(root.val<=prev.val)
+                ans = false;
+                prev = root;
+            
+        }
+        fun(root.right);
 
-        return list;
+
     }
 }
