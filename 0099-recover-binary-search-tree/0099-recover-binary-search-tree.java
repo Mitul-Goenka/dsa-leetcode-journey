@@ -15,38 +15,49 @@
  */
 class Solution {
     public void recoverTree(TreeNode root) {
-         List<TreeNode> list = fun(root);
-         List<Integer> list2 = new ArrayList<>();
-         for(int i=0;i<list.size()-1;i++){
-            if(list.get(i).val > list.get(i+1).val){
-                list2.add(i);
-                list2.add(i+1);
-            }
-         }
-         
-         if(list2.size()==2){
-            swap(list , list2.get(0) , list2.get(1));
-         }
-         if(list2.size()==4){
-            swap(list , list2.get(0) , list2.get(3));
-         }
-
-         
-    }
-    List<TreeNode> fun(TreeNode root){
-        if(root==null){
-            return new ArrayList<>();
+        fun(root);
+        if(galat==1){
+            swap(g1first , g1second);
         }
-        List<TreeNode> list1 = new ArrayList<>();
-         list1.addAll(fun(root.left));
-         list1.add(root);
-         list1.addAll(fun(root.right));
-
-         return list1;
+        else{
+            swap(g1first , g2second);
+        }
     }
-    void swap(List<TreeNode> list , int a , int b){
-        int temp = list.get(a).val;
-        list.get(a).val = list.get(b).val;
-        list.get(b).val = temp;
+    int galat = 0;
+    TreeNode g1first = null;
+    TreeNode g1second = null;
+    TreeNode g2first = null;
+    TreeNode g2second = null;
+    TreeNode prev = null;
+    void fun(TreeNode root){
+        if(root==null){
+            return;
+        }
+        fun(root.left);
+        if(prev==null){
+            prev = root;
+        }
+        else{
+            if(root.val < prev.val){
+            if(galat==0){
+                g1first = prev;
+                g1second = root;
+                galat++;
+            }
+            else{
+                g2first = prev;
+                g2second = root;
+                galat++;
+            }
+        }
+        prev = root;
+
+        }
+        fun(root.right);
+    }
+    void swap(TreeNode a , TreeNode b){
+        int temp = a.val;
+        a.val = b.val;
+        b.val = temp;
     }
 }
