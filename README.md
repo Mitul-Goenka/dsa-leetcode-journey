@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0041-first-missing-positive) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0047-permutations-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0023-merge-k-sorted-lists) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0347-top-k-frequent-elements) |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -378,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0129-sum-root-to-leaf-numbers) |
