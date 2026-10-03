@@ -25,7 +25,7 @@ class Solution {
         for(int i=0;i<inorder.length;i++){
             map.put(inorder[i] , i);
         }
-        return fun(postorder , 0 , inorder.length-1);
+        return fun(postorder , 0 , postorder.length-1);
     }
     TreeNode fun(int[] postorder , int low , int high){
         if(idx<0 || low>high){
