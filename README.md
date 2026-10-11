@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1833-maximum-ice-cream-bars](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/1833-maximum-ice-cream-bars) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3731-find-missing-elements](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -448,4 +449,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0200-number-of-islands) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
