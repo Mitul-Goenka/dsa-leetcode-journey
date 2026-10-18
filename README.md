@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0130-surrounded-regions](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0200-number-of-islands) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0074-search-a-2d-matrix) |
+| [0130-surrounded-regions](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0112-path-sum) |
+| [0130-surrounded-regions](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0547-number-of-provinces) |
@@ -422,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0130-surrounded-regions](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -457,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0785-is-graph-bipartite) |
