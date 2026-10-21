@@ -10,7 +10,6 @@ class Solution {
                     dfs(isConnected , n , m , i, vis);
                     res++;
                 }
-            
         }
         return res;
     }
