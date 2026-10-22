@@ -16,7 +16,7 @@ class Solution {
                 if(a.weight != b.weight){
                    return Integer.compare(a.weight , b.weight);
                 }
-                return a.des - b.des;
+                return Integer.compare(a.des, b.des);
             }
         );
         List<Integer> list2 = new ArrayList<>();
