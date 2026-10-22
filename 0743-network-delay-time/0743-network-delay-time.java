@@ -14,7 +14,7 @@ class Solution {
         PriorityQueue<Pair> pq = new PriorityQueue<>(
             (a , b) -> {
                 if(a.weight != b.weight){
-                   return a.weight - b.weight;
+                   return Integer.compare(a.weight , b.weight);
                 }
                 return a.des - b.des;
             }
