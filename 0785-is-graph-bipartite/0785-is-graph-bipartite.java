@@ -17,6 +17,7 @@ class Solution {
             int neigh = graph[node][j];
             if(colors[neigh]!=-1 && colors[neigh]==c){
                 res = false;
+                
             }
             if(colors[neigh]==-1){
                 dfs(graph , neigh , 1-c , colors);
