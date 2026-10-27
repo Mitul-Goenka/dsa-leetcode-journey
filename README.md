@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1631-path-with-minimum-effort](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/1631-path-with-minimum-effort) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1833-maximum-ice-cream-bars](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/1833-maximum-ice-cream-bars) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-find-in-mountain-array](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/1095-find-in-mountain-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1631-path-with-minimum-effort](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/1631-path-with-minimum-effort) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/1254-number-of-closed-islands) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/1631-path-with-minimum-effort) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1631-path-with-minimum-effort](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/1631-path-with-minimum-effort) |
 ## Math
 |  |
 | ------- |
@@ -409,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/1254-number-of-closed-islands) |
+| [1631-path-with-minimum-effort](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -451,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0785-is-graph-bipartite) |
 | [1254-number-of-closed-islands](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/1254-number-of-closed-islands) |
+| [1631-path-with-minimum-effort](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/1631-path-with-minimum-effort) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -482,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0785-is-graph-bipartite) |
 | [1254-number-of-closed-islands](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/1254-number-of-closed-islands) |
+| [1631-path-with-minimum-effort](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/1631-path-with-minimum-effort) |
 ## Enumeration
 |  |
 | ------- |
@@ -508,4 +515,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/Mitul-Goenka/dsa-leetcode-journey/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
